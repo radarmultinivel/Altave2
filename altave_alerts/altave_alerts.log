@@ -1,0 +1,155 @@
+2026-04-27 21:00:39,547 - alerts.manager - INFO - AlertManager inicializado com fila de prioridade thread-safe
+2026-04-27 21:00:39,548 - alerts.manager - INFO - Callback de emergência registrado
+2026-04-27 21:00:39,548 - alerts.manager - INFO - Iniciando loop de processamento
+2026-04-27 21:00:39,548 - alerts.manager - INFO - Processador de alertas iniciado
+2026-04-27 21:00:39,549 - alerts.manager - INFO - Alerta adicionado à fila: TEST_001
+2026-04-27 21:00:39,549 - alerts.manager - INFO - Processando alerta #1: [2026-04-26 21:23:42] ID:TEST_001 | Calor | BAIXO | Leituras de calor incomuns no setor de armazenamento
+2026-04-27 21:00:39,650 - alerts.manager - INFO - Alerta TEST_001 processado com sucesso
+2026-04-27 21:00:39,750 - alerts.manager - INFO - Alerta adicionado à fila: TEST_002
+2026-04-27 21:00:39,750 - alerts.manager - INFO - Processando alerta #2: [2026-04-27 01:03:51] ID:TEST_002 | Movimentação | BAIXO | Movimentacao detectada na area restrita Zona A
+2026-04-27 21:00:39,851 - alerts.manager - INFO - Alerta TEST_002 processado com sucesso
+2026-04-27 21:00:39,951 - alerts.manager - INFO - Alerta adicionado à fila: TEST_003
+2026-04-27 21:00:39,951 - alerts.manager - INFO - Processando alerta #3: [2026-04-27 17:20:43] ID:TEST_003 | Movimentação | CRITICO | Vestigios de intrusao detectados no setor B
+2026-04-27 21:00:39,951 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_003
+2026-04-27 21:00:40,052 - alerts.manager - INFO - Alerta TEST_003 processado com sucesso
+2026-04-27 21:00:40,152 - alerts.manager - INFO - Alerta adicionado à fila: TEST_004
+2026-04-27 21:00:40,152 - alerts.manager - INFO - Processando alerta #4: [2026-04-27 17:54:26] ID:TEST_004 | Movimentação | BAIXO | Vestigios de intrusao detectados no setor B
+2026-04-27 21:00:40,253 - alerts.manager - INFO - Alerta TEST_004 processado com sucesso
+2026-04-27 21:00:40,353 - alerts.manager - INFO - Alerta adicionado à fila: TEST_005
+2026-04-27 21:00:40,353 - alerts.manager - INFO - Processando alerta #5: [2026-04-27 09:23:42] ID:TEST_005 | Calor | MEDIO | Anomalia termica detectada no equipamento CR-4
+2026-04-27 21:00:40,453 - alerts.manager - INFO - Alerta TEST_005 processado com sucesso
+2026-04-27 21:00:40,554 - alerts.manager - INFO - Alerta adicionado à fila: TEST_006
+2026-04-27 21:00:40,554 - alerts.manager - INFO - Processando alerta #6: [2026-04-26 21:22:34] ID:TEST_006 | Movimentação | BAIXO | Movimentacao detectada na area restrita Zona A
+2026-04-27 21:00:40,654 - alerts.manager - INFO - Alerta TEST_006 processado com sucesso
+2026-04-27 21:00:40,754 - alerts.manager - INFO - Alerta adicionado à fila: TEST_007
+2026-04-27 21:00:40,754 - alerts.manager - INFO - Processando alerta #7: [2026-04-27 11:07:01] ID:TEST_007 | Calor | MEDIO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:00:40,855 - alerts.manager - INFO - Alerta TEST_007 processado com sucesso
+2026-04-27 21:00:40,955 - alerts.manager - INFO - Alerta adicionado à fila: TEST_008
+2026-04-27 21:00:40,955 - alerts.manager - INFO - Processando alerta #8: [2026-04-27 12:31:07] ID:TEST_008 | Calor | BAIXO | Anomalia termica detectada no equipamento CR-4
+2026-04-27 21:00:41,055 - alerts.manager - INFO - Alerta TEST_008 processado com sucesso
+2026-04-27 21:00:41,155 - alerts.manager - INFO - Alerta adicionado à fila: TEST_009
+2026-04-27 21:00:41,156 - alerts.manager - INFO - Processando alerta #9: [2026-04-27 20:09:25] ID:TEST_009 | Movimentação | CRITICO | Movimento suspeito no perimetro sul
+2026-04-27 21:00:41,156 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_009
+2026-04-27 21:00:41,256 - alerts.manager - INFO - Alerta TEST_009 processado com sucesso
+2026-04-27 21:00:41,356 - alerts.manager - INFO - Alerta adicionado à fila: TEST_010
+2026-04-27 21:00:41,356 - alerts.manager - INFO - Processando alerta #10: [2026-04-27 20:32:08] ID:TEST_010 | Calor | MEDIO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:00:41,457 - alerts.manager - INFO - Alerta TEST_010 processado com sucesso
+2026-04-27 21:00:56,573 - alerts.manager - INFO - Loop de processamento finalizado
+2026-04-27 21:00:56,573 - alerts.manager - INFO - Processador de alertas parado
+2026-04-27 21:00:56,574 - __main__ - ERROR - Erro na execucao: EOF when reading a line
+2026-04-27 21:13:51,034 - alerts.manager - INFO - AlertManager inicializado com fila de prioridade thread-safe
+2026-04-27 21:13:51,035 - alerts.manager - INFO - Callback de emergência registrado
+2026-04-27 21:13:51,035 - alerts.manager - INFO - Iniciando loop de processamento
+2026-04-27 21:13:51,035 - alerts.manager - INFO - Processador de alertas iniciado
+2026-04-27 21:13:51,036 - alerts.manager - INFO - Alerta adicionado à fila: TEST_001
+2026-04-27 21:13:51,036 - alerts.manager - INFO - Processando alerta #1: [2026-04-27 03:41:37] ID:TEST_001 | Movimentação | BAIXO | Presenca nao autorizada na entrada principal
+2026-04-27 21:13:51,137 - alerts.manager - INFO - Alerta TEST_001 processado com sucesso
+2026-04-27 21:13:51,237 - alerts.manager - INFO - Alerta adicionado à fila: TEST_002
+2026-04-27 21:13:51,237 - alerts.manager - INFO - Processando alerta #2: [2026-04-26 20:36:45] ID:TEST_002 | Movimentação | MEDIO | Presenca nao autorizada na entrada principal
+2026-04-27 21:13:51,338 - alerts.manager - INFO - Alerta TEST_002 processado com sucesso
+2026-04-27 21:13:51,438 - alerts.manager - INFO - Alerta adicionado à fila: TEST_003
+2026-04-27 21:13:51,438 - alerts.manager - INFO - Processando alerta #3: [2026-04-27 11:49:34] ID:TEST_003 | Calor | BAIXO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:13:51,539 - alerts.manager - INFO - Alerta TEST_003 processado com sucesso
+2026-04-27 21:13:51,640 - alerts.manager - INFO - Alerta adicionado à fila: TEST_004
+2026-04-27 21:13:51,640 - alerts.manager - INFO - Processando alerta #4: [2026-04-27 03:47:23] ID:TEST_004 | Calor | BAIXO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:13:51,741 - alerts.manager - INFO - Alerta TEST_004 processado com sucesso
+2026-04-27 21:13:51,841 - alerts.manager - INFO - Alerta adicionado à fila: TEST_005
+2026-04-27 21:13:51,841 - alerts.manager - INFO - Processando alerta #5: [2026-04-26 21:37:41] ID:TEST_005 | Calor | CRITICO | Leituras de calor incomuns no setor de armazenamento
+2026-04-27 21:13:51,842 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_005
+2026-04-27 21:13:51,943 - alerts.manager - INFO - Alerta TEST_005 processado com sucesso
+2026-04-27 21:13:52,042 - alerts.manager - INFO - Alerta adicionado à fila: TEST_006
+2026-04-27 21:13:52,043 - alerts.manager - INFO - Processando alerta #6: [2026-04-27 09:34:43] ID:TEST_006 | Movimentação | BAIXO | Presenca nao autorizada na entrada principal
+2026-04-27 21:13:52,144 - alerts.manager - INFO - Alerta TEST_006 processado com sucesso
+2026-04-27 21:13:52,244 - alerts.manager - INFO - Alerta adicionado à fila: TEST_007
+2026-04-27 21:13:52,244 - alerts.manager - INFO - Processando alerta #7: [2026-04-27 20:55:00] ID:TEST_007 | Calor | MEDIO | Anomalia termica detectada no equipamento CR-4
+2026-04-27 21:13:52,345 - alerts.manager - INFO - Alerta TEST_007 processado com sucesso
+2026-04-27 21:13:52,445 - alerts.manager - INFO - Alerta adicionado à fila: TEST_008
+2026-04-27 21:13:52,446 - alerts.manager - INFO - Processando alerta #8: [2026-04-27 09:45:36] ID:TEST_008 | Calor | BAIXO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:13:52,547 - alerts.manager - INFO - Alerta TEST_008 processado com sucesso
+2026-04-27 21:13:52,647 - alerts.manager - INFO - Alerta adicionado à fila: TEST_009
+2026-04-27 21:13:52,647 - alerts.manager - INFO - Processando alerta #9: [2026-04-27 07:43:25] ID:TEST_009 | Calor | MEDIO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:13:52,748 - alerts.manager - INFO - Alerta TEST_009 processado com sucesso
+2026-04-27 21:13:52,848 - alerts.manager - INFO - Alerta adicionado à fila: TEST_010
+2026-04-27 21:13:52,848 - alerts.manager - INFO - Processando alerta #10: [2026-04-27 12:40:42] ID:TEST_010 | Calor | BAIXO | Temperatura acima do limite normal no servidor room
+2026-04-27 21:13:52,949 - alerts.manager - INFO - Alerta TEST_010 processado com sucesso
+2026-04-27 21:14:08,081 - alerts.manager - INFO - Loop de processamento finalizado
+2026-04-27 21:14:08,081 - alerts.manager - INFO - Processador de alertas parado
+2026-04-27 21:25:04,552 - alerts.manager - INFO - AlertManager inicializado com fila de prioridade thread-safe
+2026-04-27 21:25:04,552 - alerts.manager - INFO - Callback de emergência registrado
+2026-04-27 21:25:04,553 - alerts.manager - INFO - Iniciando loop de processamento
+2026-04-27 21:25:04,553 - alerts.manager - INFO - Processador de alertas iniciado
+2026-04-27 21:25:04,553 - alerts.manager - INFO - Alerta adicionado à fila: TEST_001
+2026-04-27 21:25:04,553 - alerts.manager - INFO - Processando alerta #1: [2026-04-27 20:28:20] ID:TEST_001 | Movimentação | CRITICO | Movimentacao detectada na area restrita Zona A
+2026-04-27 21:25:04,554 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_001
+2026-04-27 21:25:04,654 - alerts.manager - INFO - Alerta TEST_001 processado com sucesso
+2026-04-27 21:25:04,754 - alerts.manager - INFO - Alerta adicionado à fila: TEST_002
+2026-04-27 21:25:04,754 - alerts.manager - INFO - Processando alerta #2: [2026-04-27 19:26:18] ID:TEST_002 | Calor | BAIXO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:25:04,855 - alerts.manager - INFO - Alerta TEST_002 processado com sucesso
+2026-04-27 21:25:04,955 - alerts.manager - INFO - Alerta adicionado à fila: TEST_003
+2026-04-27 21:25:04,955 - alerts.manager - INFO - Processando alerta #3: [2026-04-26 23:18:42] ID:TEST_003 | Calor | MEDIO | Temperatura acima do limite normal no servidor room
+2026-04-27 21:25:05,056 - alerts.manager - INFO - Alerta TEST_003 processado com sucesso
+2026-04-27 21:25:05,156 - alerts.manager - INFO - Alerta adicionado à fila: TEST_004
+2026-04-27 21:25:05,157 - alerts.manager - INFO - Processando alerta #4: [2026-04-27 03:02:30] ID:TEST_004 | Calor | CRITICO | Leituras de calor incomuns no setor de armazenamento
+2026-04-27 21:25:05,159 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_004
+2026-04-27 21:25:05,259 - alerts.manager - INFO - Alerta TEST_004 processado com sucesso
+2026-04-27 21:25:05,358 - alerts.manager - INFO - Alerta adicionado à fila: TEST_005
+2026-04-27 21:25:05,359 - alerts.manager - INFO - Processando alerta #5: [2026-04-27 15:35:09] ID:TEST_005 | Movimentação | MEDIO | Movimentacao detectada na area restrita Zona A
+2026-04-27 21:25:05,459 - alerts.manager - INFO - Alerta TEST_005 processado com sucesso
+2026-04-27 21:25:05,560 - alerts.manager - INFO - Alerta adicionado à fila: TEST_006
+2026-04-27 21:25:05,560 - alerts.manager - INFO - Processando alerta #6: [2026-04-26 22:40:43] ID:TEST_006 | Movimentação | MEDIO | Movimento suspeito no perimetro sul
+2026-04-27 21:25:05,660 - alerts.manager - INFO - Alerta TEST_006 processado com sucesso
+2026-04-27 21:25:05,761 - alerts.manager - INFO - Alerta adicionado à fila: TEST_007
+2026-04-27 21:25:05,761 - alerts.manager - INFO - Processando alerta #7: [2026-04-27 04:42:21] ID:TEST_007 | Calor | MEDIO | Temperatura acima do limite normal no servidor room
+2026-04-27 21:25:05,862 - alerts.manager - INFO - Alerta TEST_007 processado com sucesso
+2026-04-27 21:25:05,962 - alerts.manager - INFO - Alerta adicionado à fila: TEST_008
+2026-04-27 21:25:05,963 - alerts.manager - INFO - Processando alerta #8: [2026-04-27 03:13:28] ID:TEST_008 | Movimentação | BAIXO | Movimentacao detectada na area restrita Zona A
+2026-04-27 21:25:06,063 - alerts.manager - INFO - Alerta TEST_008 processado com sucesso
+2026-04-27 21:25:06,164 - alerts.manager - INFO - Alerta adicionado à fila: TEST_009
+2026-04-27 21:25:06,164 - alerts.manager - INFO - Processando alerta #9: [2026-04-27 04:20:17] ID:TEST_009 | Calor | MEDIO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:25:06,265 - alerts.manager - INFO - Alerta TEST_009 processado com sucesso
+2026-04-27 21:25:06,365 - alerts.manager - INFO - Alerta adicionado à fila: TEST_010
+2026-04-27 21:25:06,365 - alerts.manager - INFO - Processando alerta #10: [2026-04-27 20:12:20] ID:TEST_010 | Calor | CRITICO | Leituras de calor incomuns no setor de armazenamento
+2026-04-27 21:25:06,366 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_010
+2026-04-27 21:25:06,467 - alerts.manager - INFO - Alerta TEST_010 processado com sucesso
+2026-04-27 21:25:21,587 - alerts.manager - INFO - Loop de processamento finalizado
+2026-04-27 21:25:21,588 - alerts.manager - INFO - Processador de alertas parado
+2026-04-27 21:29:00,445 - alerts.manager - INFO - AlertManager inicializado com fila de prioridade thread-safe
+2026-04-27 21:29:00,445 - alerts.manager - INFO - Callback de emergência registrado
+2026-04-27 21:29:00,446 - alerts.manager - INFO - Iniciando loop de processamento
+2026-04-27 21:29:00,446 - alerts.manager - INFO - Processador de alertas iniciado
+2026-04-27 21:29:00,446 - alerts.manager - INFO - Alerta adicionado à fila: TEST_001
+2026-04-27 21:29:00,446 - alerts.manager - INFO - Processando alerta #1: [2026-04-27 02:17:41] ID:TEST_001 | Movimentação | MEDIO | Presenca nao autorizada na entrada principal
+2026-04-27 21:29:00,547 - alerts.manager - INFO - Alerta TEST_001 processado com sucesso
+2026-04-27 21:29:00,647 - alerts.manager - INFO - Alerta adicionado à fila: TEST_002
+2026-04-27 21:29:00,647 - alerts.manager - INFO - Processando alerta #2: [2026-04-27 18:00:21] ID:TEST_002 | Movimentação | BAIXO | Presenca nao autorizada na entrada principal
+2026-04-27 21:29:00,748 - alerts.manager - INFO - Alerta TEST_002 processado com sucesso
+2026-04-27 21:29:00,848 - alerts.manager - INFO - Alerta adicionado à fila: TEST_003
+2026-04-27 21:29:00,849 - alerts.manager - INFO - Processando alerta #3: [2026-04-27 12:30:01] ID:TEST_003 | Calor | CRITICO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:29:00,850 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_003
+2026-04-27 21:29:00,951 - alerts.manager - INFO - Alerta TEST_003 processado com sucesso
+2026-04-27 21:29:01,049 - alerts.manager - INFO - Alerta adicionado à fila: TEST_004
+2026-04-27 21:29:01,050 - alerts.manager - INFO - Processando alerta #4: [2026-04-27 17:36:33] ID:TEST_004 | Movimentação | MEDIO | Movimentacao detectada na area restrita Zona A
+2026-04-27 21:29:01,151 - alerts.manager - INFO - Alerta TEST_004 processado com sucesso
+2026-04-27 21:29:01,250 - alerts.manager - INFO - Alerta adicionado à fila: TEST_005
+2026-04-27 21:29:01,251 - alerts.manager - INFO - Processando alerta #5: [2026-04-27 05:35:52] ID:TEST_005 | Calor | BAIXO | Alerta de superaquecimento na unidade de refrigeracao
+2026-04-27 21:29:01,352 - alerts.manager - INFO - Alerta TEST_005 processado com sucesso
+2026-04-27 21:29:01,452 - alerts.manager - INFO - Alerta adicionado à fila: TEST_006
+2026-04-27 21:29:01,452 - alerts.manager - INFO - Processando alerta #6: [2026-04-27 18:09:29] ID:TEST_006 | Movimentação | BAIXO | Presenca nao autorizada na entrada principal
+2026-04-27 21:29:01,553 - alerts.manager - INFO - Alerta TEST_006 processado com sucesso
+2026-04-27 21:29:01,653 - alerts.manager - INFO - Alerta adicionado à fila: TEST_007
+2026-04-27 21:29:01,653 - alerts.manager - INFO - Processando alerta #7: [2026-04-26 23:42:50] ID:TEST_007 | Movimentação | CRITICO | Vestigios de intrusao detectados no setor B
+2026-04-27 21:29:01,655 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_007
+2026-04-27 21:29:01,756 - alerts.manager - INFO - Alerta TEST_007 processado com sucesso
+2026-04-27 21:29:01,854 - alerts.manager - INFO - Alerta adicionado à fila: TEST_008
+2026-04-27 21:29:01,855 - alerts.manager - INFO - Processando alerta #8: [2026-04-27 04:44:49] ID:TEST_008 | Calor | CRITICO | Leituras de calor incomuns no setor de armazenamento
+2026-04-27 21:29:01,857 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_008
+2026-04-27 21:29:01,957 - alerts.manager - INFO - Alerta TEST_008 processado com sucesso
+2026-04-27 21:29:02,056 - alerts.manager - INFO - Alerta adicionado à fila: TEST_009
+2026-04-27 21:29:02,056 - alerts.manager - INFO - Processando alerta #9: [2026-04-27 09:35:00] ID:TEST_009 | Calor | MEDIO | Temperatura acima do limite normal no servidor room
+2026-04-27 21:29:02,157 - alerts.manager - INFO - Alerta TEST_009 processado com sucesso
+2026-04-27 21:29:02,257 - alerts.manager - INFO - Alerta adicionado à fila: TEST_010
+2026-04-27 21:29:02,257 - alerts.manager - INFO - Processando alerta #10: [2026-04-27 01:59:07] ID:TEST_010 | Movimentação | CRITICO | Vestigios de intrusao detectados no setor B
+2026-04-27 21:29:02,257 - alerts.manager - WARNING - NOTIFICACAO DE EMERGENCIA disparada para alerta TEST_010
+2026-04-27 21:29:02,358 - alerts.manager - INFO - Alerta TEST_010 processado com sucesso
+2026-04-27 21:29:17,459 - alerts.manager - INFO - Loop de processamento finalizado
+2026-04-27 21:29:17,460 - alerts.manager - INFO - Processador de alertas parado
